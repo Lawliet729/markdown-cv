@@ -9,22 +9,17 @@ title: Yutong Li's CV
 <!-- | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a> -->
 </div>
 
-
-## Currently
-
-Ph.D Candidate in Art & Archaeology @ Princeton University
-
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2017-present`
+__Princeton Univeristy__
+- Ph.D. Candidate in Art & Archaeology @ Princeton University
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2015-2017`
+__School of Oriental and African Studies__
+- M.A. in History of Art and Archaeology and Intensive Language (Japanese)
 
-- Sizar
-
-`1667 - death`
+`2011-2015`
 __Trinity College, Cambridge__
 
 - Fellow
