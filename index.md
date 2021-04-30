@@ -12,18 +12,20 @@ title: Yutong Li's CV
 ## Education
 
 `2017-present`
-__Princeton Univeristy__
-- Ph.D. Candidate in Art & Archaeology @ Princeton University
+__Princeton University__
+- Ph.D. Candidate in Art & Archaeology
+- Tentative dissertation title: "Hua and Yi: Conceptualizing the Foreign Other in the Local Pictorial Imagination of Late Ming and Early Qing China"
 
 `2015-2017`
 __School of Oriental and African Studies__
 - M.A. in History of Art and Archaeology and Intensive Language (Japanese)
+- Dissertation title: “Bridging the Dichotomy: the Synthesis of Literati and Popular Culture in Late Ming Illustrations of the Story of the Western Wing”
+- Advisor: Shane McCausland, Ph.D.
 
 `2011-2015`
-__Trinity College, Cambridge__
-
-- Fellow
-
+__University of Viginia__
+- B.A. in Philosophy
+- Minor in East Asian Studies
 
 
 ## Awards
